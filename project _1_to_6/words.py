@@ -1,0 +1,8 @@
+words = ["I'm" "a" "curious" "coder" "math" "lover" "idea" "explorer" "bug" "fixer" "logic" "builder" "dream" "chaser" "project" "starter" "passionate" "learner" "creative" "thinker"
+"solution" "seeker" "code" "writer" "design" "maker" "technology" "enthusiast" "midnight" "debugger" "frontend" "fan" "backend" "builder" "typescript" "lover" "nextjs" "learner" "react" "developer"
+"css" "crafter" "html" "architect" "github" "explorer" "team" "player" "goal" "setter" "idea" "creator" "logic" "lover" "mathematics" "fan" "equation" "solver" "problem" "breaker"
+"inquirer" "user" "terminal" "navigator" "interactive" "form" "designer" "resume" "builder" "pdf" "exporter" "content" "organizer" "clean" "coder" "focused" "learner" "detail" "oriented"
+"debugging" "ninja" "layout" "designer" "ui" "creator" "experience" "enhancer" "responsive" "styler" "color" "matcher" "section" "splitter" "background" "stylist" "logic" "tester"
+"component" "creator" "typescript" "explorer" "dynamic" "thinker" "dreamer" "doer" "tech" "enthusiast" "knowledge" "seeker" "learning" "machine" "infinite" "thinker"
+"workflow" "optimizer" "structure" "planner" "project" "organizer" "interactive" "engineer" "interface" "innovator" "user" "experience" "lover"
+"feedback" "welcomer" "growth" "seeker" "improvement" "believer" "progress" "tracker" "code" "enthusiast" "lifelong" "learner" "future" "builder" "rimsha" "arshad"]
